@@ -111,7 +111,7 @@
 		<string>ModularMRM10</string>
 		<string>Starcore_Arrow_Block</string>
 		<string>Starcore_Fixed_Coil_Cannon</string>
-		<string>Starcore_M_Laser_Block<string>
+		<string>Starcore_M_Laser_Block</string>
 		<string>Starcore_L_Laser_Block</string>
 
 		<!--KILLER - is laser_block also adding the M and L lasers?-->
