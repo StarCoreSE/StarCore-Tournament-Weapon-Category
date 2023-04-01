@@ -93,7 +93,7 @@
 
 		<!--INVALID-->
 		<string>MetalStorm</string>
-		<string>CLBX20</string>
+		<string>CLBX5</string>
 		<string>SLAM</string>
 		<string>banshee</string>
 		<string>TaiidanRail</string>
@@ -252,6 +252,13 @@
         <string>NHI_Fixed_Autocannon</string>
 		<string>NHI_Fixed_Gatling_Laser</string>
 		<string>K_SA_HeavyMetal_Spinal_Rotary</string>
+		<string>ARYXPlasmaPulser</string>
+		<string>ARYXTempestCannon</string>
+		<string>HAS_Thanatos</string>
+		<string>HAS_Esper</string>
+		<string>CLBX5</string>
+		<string>Hexcannon</string>	
+		
 
 
       </ItemIds>
