@@ -111,9 +111,11 @@
 		<string>ModularMRM10</string>
 		<string>Starcore_Arrow_Block</string>
 		<string>Starcore_Fixed_Coil_Cannon</string>
+		<string>Starcore_M_Laser_Block<string>
+		<string>Starcore_L_Laser_Block</string>
 
-		<!--KILLER-->
-		<string>Laser_Block</string>
+		<!--KILLER - is laser_block also adding the M and L lasers?-->
+		<string>Laser_Block</string> 
 		<string>Torp_Block</string>
 
 
@@ -227,6 +229,33 @@
 
       </ItemIds>
     </Category>
+  
+	<!--drone whitelisted weps-->
+	<Category xsi:type="MyObjectBuilder_GuiBlockCategoryDefinition">
+      <Id>
+        <TypeId>GuiBlockCategoryDefinition</TypeId>
+
+      </Id>
+      <DisplayName>.STARCORE DRONE FIXED WEP WHITELIST</DisplayName>
+      <Name>.SC Drone Whitelist</Name>
+	  <StrictSearch>true</StrictSearch>
+      <ItemIds>
+
+		
+		<string>AMP_ArcMelee</string>
+		<string>AMP_ArcMeleeReskin</string>
+		<string>Starcore_M_Laser_Block<string>
+		<string>Starcore_L_Laser_Block</string>
+		<string>MA_Fixed_T3</string>
+		<string>MA_Tiger</string>
+		<string>Fixed_Rockets</string>
+        <string>NHI_Fixed_Autocannon</string>
+		<string>NHI_Fixed_Gatling_Laser</string>
+
+
+      </ItemIds>
+    </Category>
+   
   
 
  </CategoryClasses>
