@@ -55,7 +55,7 @@
 		<string>K_SA_HeavyMetal_Gauss_ERIIRF</string>
 		<string>K_SA_Launcher_FixedMountv2</string>
 		<string>K_SA_LoW_CapitalSpinalA</string>
-		<!--<string>K_SA_HeavyMetal_Spinal_Rotary</string>-->
+		<string>K_SA_HeavyMetal_Spinal_Rotary</string>
 		<string>K_SA_HeavyMetal_Gauss_ERFM</string>
 		<string>K_SA_HeavyMetal_Gauss_A</string>
 		<string>K_SA_HeavyMetal_Gauss_PGBC</string>
@@ -236,7 +236,7 @@
         <TypeId>GuiBlockCategoryDefinition</TypeId>
 
       </Id>
-      <DisplayName>.STARCORE DRONE FIXED WEP WHITELIST</DisplayName>
+      <DisplayName>.STARCORE_DRONE_WHITELIST</DisplayName>
       <Name>.SC Drone Whitelist</Name>
 	  <StrictSearch>true</StrictSearch>
       <ItemIds>
@@ -251,6 +251,7 @@
 		<string>Fixed_Rockets</string>
         <string>NHI_Fixed_Autocannon</string>
 		<string>NHI_Fixed_Gatling_Laser</string>
+		<string>K_SA_HeavyMetal_Spinal_Rotary</string>
 
 
       </ItemIds>
