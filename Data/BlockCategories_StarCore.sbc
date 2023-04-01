@@ -97,7 +97,8 @@
 		<string>SLAM</string>
 		<string>banshee</string>
 		<string>TaiidanRail</string>
-		<string>Hexcannon</string>			
+		<string>Hexcannon</string>		
+		<string>longsword</string>
 
 
 
@@ -157,7 +158,7 @@
 
 		
 		<!--INVALID-->
-		<string>longsword</string>
+		
 		
 		
 		<!--Tait Fletcher -->
