@@ -236,8 +236,8 @@
         <TypeId>GuiBlockCategoryDefinition</TypeId>
 
       </Id>
-      <DisplayName>.zSTARCORE DRONE WHITELIST</DisplayName>
-      <Name>.SC Drone Whitelist</Name>
+      <DisplayName>.STARCORE DRONE WHITELIST</DisplayName>
+      <Name>.SC zDrone Whitelist</Name>
 	  <StrictSearch>true</StrictSearch>
       <ItemIds>
 
