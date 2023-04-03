@@ -15,14 +15,14 @@
 
 
 		<!--VANILLA?-->
-		<string>LargeRailgun</string>
-		<!--<string>LargeCalibreTurret</string>-->
-		<!--<string>MediumCalibreTurret</string>-->
-		<!--<string>GatlingTurret</string>-->
-		<string>MissileTurret</string>
-		<!--<string>LargeBlockLargeCalibreGun</string>-->
-		<!--<string>LargeMissileLauncher</string>-->
-		<!--<string>Starcore_Basic_Warhead</string>-->
+		<string>LargeRailgun_SC</string>
+		<string>LargeCalibreTurret_SC</string>
+		<string>MediumCalibreTurret_SC</string>
+		<string>GatlingTurret_SC</string>
+		<string>MissileTurret_SC</string>
+		<string>LargeBlockLargeCalibreGun_SC</string>
+		<string>LargeMissileLauncher_SC</string>
+		<string>Starcore_Basic_Warhead_SC</string>
 		
 		<!--FUCKING NATE-->
 		<string>Type18_Artillery</string>
@@ -55,7 +55,7 @@
 		<string>K_SA_HeavyMetal_Gauss_ERIIRF</string>
 		<string>K_SA_Launcher_FixedMountv2</string>
 		<string>K_SA_LoW_CapitalSpinalA</string>
-		<!--<string>K_SA_HeavyMetal_Spinal_Rotary</string>-->
+		<string>K_SA_HeavyMetal_Spinal_Rotary</string>
 		<string>K_SA_HeavyMetal_Gauss_ERFM</string>
 		<string>K_SA_HeavyMetal_Gauss_A</string>
 		<string>K_SA_HeavyMetal_Gauss_PGBC</string>
@@ -93,11 +93,12 @@
 
 		<!--INVALID-->
 		<string>MetalStorm</string>
-		<string>CLBX20</string>
+		<string>CLB2X</string>
 		<string>SLAM</string>
 		<string>banshee</string>
 		<string>TaiidanRail</string>
-		<string>Hexcannon</string>			
+		<string>Hexcannon</string>		
+		<string>longsword</string>
 
 
 
@@ -110,9 +111,11 @@
 		<string>ModularMRM10</string>
 		<string>Starcore_Arrow_Block</string>
 		<string>Starcore_Fixed_Coil_Cannon</string>
+		<string>Starcore_M_Laser_Block</string>
+		<string>Starcore_L_Laser_Block</string>
 
-		<!--KILLER-->
-		<string>Laser_Block</string>
+		<!--KILLER - is laser_block also adding the M and L lasers?-->
+		<string>Laser_Block</string> 
 		<string>Torp_Block</string>
 
 
@@ -157,7 +160,7 @@
 
 		
 		<!--INVALID-->
-		<string>longsword</string>
+		
 		
 		
 		<!--Tait Fletcher -->
@@ -229,6 +232,41 @@
 
       </ItemIds>
     </Category>
+  
+	<!--drone whitelisted weps-->
+	<Category xsi:type="MyObjectBuilder_GuiBlockCategoryDefinition">
+      <Id>
+        <TypeId>GuiBlockCategoryDefinition</TypeId>
+
+      </Id>
+      <DisplayName>.STARCORE DRONE WHITELIST</DisplayName>
+      <Name>.SC zDrone Whitelist</Name>
+	  <StrictSearch>true</StrictSearch>
+      <ItemIds>
+
+		
+		<string>AMP_ArcMelee</string>
+		<string>AMP_ArcMeleeReskin</string>
+		<string>Starcore_M_Laser_Block</string>
+		<string>Starcore_L_Laser_Block</string>
+		<string>MA_Fixed_T3</string>
+		<string>MA_Tiger</string>
+		<string>Fixed_Rockets</string>
+        <string>NHI_Fixed_Autocannon</string>
+		<string>NHI_Fixed_Gatling_Laser</string>
+		<string>K_SA_HeavyMetal_Spinal_Rotary</string>
+		<string>ARYXPlasmaPulser</string>
+		<string>ARYXTempestCannon</string>
+		<string>HAS_Thanatos</string>
+		<string>HAS_Esper</string>
+		<string>CLB2X</string>
+		<string>Hexcannon</string>	
+		
+
+
+      </ItemIds>
+    </Category>
+   
   
 
  </CategoryClasses>
