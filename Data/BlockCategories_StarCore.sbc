@@ -182,6 +182,9 @@
 		<string>LargeMissileTurret/15cmSKC28NR</string>
 		<string>ConveyorSorter/PomPomMain</string>
 		<string>ConveyorSorter/150mmCasemate</string>
+		<string>ConveyorSorter/BoforTwinRemodel</string>
+		<string>ConveyorSorter/BoforSingleRemodel</string>
+		<string>ConveyorSorter/QuadBofor</string>
 
 
       </ItemIds>
