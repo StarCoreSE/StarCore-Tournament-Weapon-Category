@@ -15,14 +15,14 @@
 
 
 		<!--VANILLA?-->
-		<string>LargeRailgun</string>
-		<!--<string>LargeCalibreTurret</string>-->
-		<!--<string>MediumCalibreTurret</string>-->
-		<!--<string>GatlingTurret</string>-->
-		<string>MissileTurret</string>
-		<!--<string>LargeBlockLargeCalibreGun</string>-->
-		<!--<string>LargeMissileLauncher</string>-->
-		<!--<string>Starcore_Basic_Warhead</string>-->
+		<string>LargeRailgun_SC</string>
+		<string>LargeCalibreTurret_SC</string>
+		<string>MediumCalibreTurret_SC</string>
+		<string>GatlingTurret_SC</string>
+		<string>MissileTurret_SC</string>
+		<string>LargeBlockLargeCalibreGun_SC</string>
+		<string>LargeMissileLauncher_SC</string>
+		<string>Starcore_Basic_Warhead_SC</string>
 		
 		<!--FUCKING NATE-->
 		<string>Type18_Artillery</string>
