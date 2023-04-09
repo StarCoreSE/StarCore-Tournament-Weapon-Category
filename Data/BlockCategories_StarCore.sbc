@@ -61,6 +61,7 @@
 		<string>K_SA_HeavyMetal_Gauss_PGBC</string>
 		<string>K_SA_Gauss_AMSIIC</string>
 		<string>SA_HMI_Erebos</string>
+		<string>K_SA_HeavyMetal_Spinal_Rotary_Reskin</string>
 
 		<!--ARYX-->
 		<string>ARYXGaussCannon</string>
@@ -188,6 +189,7 @@
 		<string>ConveyorSorter/BoforTwinRemodel</string>
 		<string>ConveyorSorter/BoforSingleRemodel</string>
 		<string>ConveyorSorter/QuadBofor</string>
+		<string>ConveyorSorter/TorpTestBuidl</string>
 
 
       </ItemIds>
