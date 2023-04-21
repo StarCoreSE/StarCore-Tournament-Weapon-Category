@@ -117,7 +117,9 @@
 		<!--KILLER - is laser_block also adding the M and L lasers?-->
 		<string>Laser_Block</string> 
 		<string>Torp_Block</string>
-
+		
+		<!--DARTH-->
+		<string>NovaCannon</string>
 
 
 		<!--HAS-->
