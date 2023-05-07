@@ -195,6 +195,9 @@
 		<string>ConveyorSorter/BoforSingleRemodel</string>
 		<string>ConveyorSorter/QuadBofor</string>
 		<string>ConveyorSorter/TorpTestBuidl</string>
+		
+		<!-- Anomaly Testing -->
+		<string>ConveyorSorter/AMP_HealGenerator</string>
 
 
       </ItemIds>
