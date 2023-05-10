@@ -198,6 +198,7 @@
 		
 		<!-- Anomaly Testing -->
 		<string>ConveyorSorter/AMP_HealGenerator</string>
+		<string>CapacitorLarge</string>
 
 
       </ItemIds>
