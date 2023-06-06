@@ -144,7 +144,6 @@
 		<string>JN_175Fixed</string>-->
         <!--<string>AMP_FlameThrower</string>-->
         <string>AMP_ArcMelee</string>
-        <string>AMP_ArcMeleeReskin</string>
         <!--<string>AMP_CryoShotgun</string>
 		<string>AMP_FlameThrowerSmall</string>-->
 
@@ -261,7 +260,6 @@
 
 
         <string>AMP_ArcMelee</string>
-        <string>AMP_ArcMeleeReskin</string>
         <string>Starcore_M_Laser_Block</string>
         <string>Starcore_L_Laser_Block</string>
         <string>MA_Fixed_T3</string>
