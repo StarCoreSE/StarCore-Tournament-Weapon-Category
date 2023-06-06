@@ -266,7 +266,6 @@
         <string>Fixed_Rockets</string>
         <string>NHI_Fixed_Autocannon</string>
         <string>NHI_Fixed_Gatling_Laser</string>
-        <string>K_SA_HeavyMetal_Spinal_Rotary</string>
         <string>ARYXPlasmaPulser</string>
         <string>ARYXTempestCannon</string>
         <string>HAS_Thanatos</string>
@@ -274,6 +273,7 @@
         <string>HAS_Cyclops</string>
         <string>CLB2X</string>
         <string>Hexcannon</string>
+		<string>K_SA_HeavyMetal_Spinal_Rotary_Reskin</string>
 
 
 
