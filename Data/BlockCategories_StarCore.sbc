@@ -105,7 +105,6 @@
 
         <!--REEECORE-->
         <string>Starcore_AMS_I_Block</string>
-        <string>Starcore_AMS_II_Block</string>
         <string>Starcore_PPC_Block</string>
         <string>ERPPC</string>
         <string>ModularSRM8</string>
