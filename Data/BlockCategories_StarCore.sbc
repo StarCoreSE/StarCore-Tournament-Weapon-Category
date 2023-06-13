@@ -66,8 +66,7 @@
         <string>ARYXGaussCannon</string>
         <string>ARYXMagnetarCannon</string>
         <string>ARYXPlasmaPulser</string>
-        <!--<string>ARYXBurstTurret</string>-->
-        <string>ARYXBurstTurretSlanted</string>
+        <string>ARYXBurstTurret</string>
         <string>ARYXTempestCannon</string>
         <string>ARYXLightCoilgun</string>
         <string>ARYXRailgun</string>
