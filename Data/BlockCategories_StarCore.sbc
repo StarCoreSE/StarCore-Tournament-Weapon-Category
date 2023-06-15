@@ -14,15 +14,8 @@
       <ItemIds>
 
 
-        <!--VANILLA?-->
-        <string>LargeRailgun_SC</string>
-        <string>LargeCalibreTurret_SC</string>
-        <string>MediumCalibreTurret_SC</string>
-        <string>GatlingTurret_SC</string>
-        <string>MissileTurret_SC</string>
-        <string>LargeBlockLargeCalibreGun_SC</string>
-        <string>LargeMissileLauncher_SC</string>
-        <string>Starcore_Basic_Warhead_SC</string>
+        <!--VANILLA? moved to its own thing-->
+
 
         <!--FUCKING NATE-->
         <string>Type18_Artillery</string>
