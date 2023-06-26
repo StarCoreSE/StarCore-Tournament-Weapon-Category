@@ -30,7 +30,8 @@
         <!--MA-->
         <string>MA_AC150</string>
         <string>MA_Gladius</string>
-        <string>MA_Gimbal_Laser</string>
+        <string>MA_Gimbal_Laser_T2</string>
+		<!--MA_Gimbal_Laser-->
         <string>MA_PDT</string>
         <string>MA_Fixed_T3</string>
         <string>MA_Tiger</string>
