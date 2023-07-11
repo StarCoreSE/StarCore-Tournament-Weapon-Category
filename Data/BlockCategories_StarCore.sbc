@@ -192,7 +192,6 @@
         <string>ConveyorSorter/quintupleTorpedoLauncher</string>
 
         <!-- Anomaly Testing -->
-        <string>ConveyorSorter/AMP_HealGenerator</string>
         <string>CapacitorLarge</string>
 
 
@@ -235,6 +234,8 @@
 
         <!--MUZZ-->
         <string>Starcore_RWR_Projectiles</string>
+		<!-- Anomaly Testing -->
+		<string>AMP_HealGenerator</string>
 
       </ItemIds>
     </Category>
